@@ -1,0 +1,59 @@
+.container{
+width: 100%;
+height: 580px;
+background-color: cornflowerblue;
+position: relative;
+
+}
+h1{
+  color: aliceblue;
+  padding-top: 40px;
+}
+h3{
+    color: aliceblue;
+
+}
+.form{
+    height: 40px;
+    width: 600px;
+    border-radius: 6px;
+    /* margin-bottom: 40px; */
+    border: antiquewhite solid 4px;
+    
+}
+.contai{
+    margin-left: 200px;
+}
+.colll{
+
+    margin-left: 70%;
+}
+.rahmabtn{
+  
+    border-radius: 6px;
+    border: white solid 1px;
+    background-color: ghostwhite;
+    width: 150px;
+    height: 40px;
+    color: rgb(26, 26, 92);
+
+}
+.rahmabtn1{
+    border: white solid 1px;
+    border-radius: 6px;
+    background-color: #eb4d4b;
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+    color: ghostwhite;
+
+}
+.btn-send{
+    border: white solid 1px;
+    border-radius: 4px;
+    width: 90px;
+    height: 40px;
+    background-color: #706fd3;
+    color: ghostwhite;
+
+}
