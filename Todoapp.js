@@ -15,8 +15,8 @@ let f=document.querySelector('.form');
       d.append(t);
       d.append(t1);
      
-      if(f.value!="")
-      {  
+    //   if(f.value!="")
+        
         // let val= document.createElement('p');
         // console.log(val);
         let ss= (f.value);
@@ -30,7 +30,7 @@ let f=document.querySelector('.form');
         
         
    })
-      }
+    //   }
          t1.addEventListener('click',function(){
          d.remove();
 })
